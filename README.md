@@ -13,7 +13,7 @@
     
    # HƯỚNG DẪN CÁCH CHƠI:
    
-     Ta có 2 quả bóng sẽ nằm trong 2 trong 16 cái cốc bất kỳ, và sẽ được đảo lộn và nhiệm vụ của ta là chọn 2 cái cốc có quả bóng nằm trong đó.
+    - Ta có 2 quả bóng sẽ nằm trong 2 trong 16 cái cốc bất kỳ, và sẽ được đảo lộn và nhiệm vụ của ta là chọn 2 cái cốc có quả bóng nằm trong đó.
      
     # CÁC KỸ THUẬT SỬ DỤNG:
     
