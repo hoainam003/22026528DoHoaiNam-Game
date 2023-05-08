@@ -11,16 +11,16 @@
     - Tên game: Fingding the ball.
     - Tính năng: Click chuột.
     
-   # HƯỚNG DẪN CÁCH CHƠI:
+  # HƯỚNG DẪN CÁCH CHƠI:
    
     - Ta có 2 quả bóng sẽ nằm trong 2 trong 16 cái cốc bất kỳ, và sẽ được đảo lộn và nhiệm vụ của ta là chọn 2 cái cốc có quả bóng nằm trong đó.
      
-    # CÁC KỸ THUẬT SỬ DỤNG:
+   # CÁC KỸ THUẬT SỬ DỤNG:
     
       - Sử dụng thư viện SDL, SDL_image, SDL_ttf, SDL_mixer.
       - Kỹ năng tách file. 
      
-    # KẾT LUẬN:
+   # KẾT LUẬN:
       
       - Lợi ích:
          + Giúp ta rèn luyện tính tư duy, độ nhanh nhạy của mắt.
