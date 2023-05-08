@@ -33,6 +33,6 @@
        + Rút ra kinh nghiệm quản lí và sắp xếp thời gian, xây dựng kế hoạch.
        + Rèn luyện được khả năng tự học, tự tìm hiểu và khả năng lập trình.
          
-     # NGUỒN KHAM KHẢO:
+    # NGUỒN KHAM KHẢO:
      - LazyFoo: https://lazyfoo.net/tutorials/SDL/
      - Ý tưởng làm game: https://apps.apple.com/us/app/find-the-ball/id317239334
